@@ -1,0 +1,35 @@
+There are given 2 task for pcb designing.The schematic files downloaded from
+github.com/upsidedownlabs
+ 
+------------------------------------------------
+For Task1 feedback given:
+------------------------------------------------
+1) routing width is larger 
+2) jumpers and ports are to be placed at corners.
+3) components should be close or placed nearly.
+4) silkscreen overlapped.
+
+TASK1 CORRECTED:
+1) Routing width has been changed and corrected.
+2) jumpers and ports placed at corners.
+3) space managed and components placed closely.
+4) overlapped text has been adjusted.
+
+NOTE:"SHOWNatTnP" file attached that shown at TnP.
+"CORRECTEDtask1" file attached that is corrected before deadline.
+
+
+-----------------------------------------------
+For Task2 feedback given:
+------------------------------------------------
+1) unconnected wires 
+2) all the errors to be fix.
+3) although we have enough space for placing components but try to place closely and well arranged.
+
+TASK2 CORRECTED:
+1) connected all the connections, using 'place through via' for avoiding shorting wires.
+2) routing with care of all errors.
+3) components arranged.
+
+For Task2 arrangement of components have taken some reference from downloaded file from "BioAmp-EXG-Pill-main".
+NOTE:"ard1" is file name for task 2.
